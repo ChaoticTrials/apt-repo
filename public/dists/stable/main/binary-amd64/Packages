@@ -164,3 +164,19 @@ Description: Fast, format-aware archiver for Minecraft worlds — preprocesses M
  [SPEC.md](SPEC.md) for the full format specification.
 Homepage: https://github.com/ChaoticTrials/sbk
 
+Package: sbk-gui
+Priority: optional
+Installed-Size: 12161
+Maintainer: MelanX
+Architecture: amd64
+Version: 0.1.0
+Depends: sbk, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/s/sbk-gui/SBK.GUI_0.1.0_amd64.deb
+Size: 4806972
+MD5sum: fd34ac308b91b6094c58acdd12842e14
+SHA1: 649a6cc855e15bbe9647d5fe347d397d7a675bed
+SHA256: 7d9d0481e966613ea395ae9e339527543aecd614ce2906b9acf81950f1c934d2
+SHA512: d7bfe97461044c4ee39b8aff8b636779b742485e50ba7768fc41460a79d2bad10d7a95d32b166c5dfe5781411ae23dc224aa9ba4c6a3ee08273e6948de4c7299
+Description: SBK archive browser
+ (none)
+
